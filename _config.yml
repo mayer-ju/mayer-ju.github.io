@@ -21,12 +21,15 @@
 title: Justin Mayer
 email: jmayer@mrl.ucsb.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Thanks for stopping by! This site includes a little bit of everything.
+  Thanks for stopping by, hopefully you will find something useful on here!
+  If you want to see what I have worked on in the past, check out my publications. 
+  For what I have been thinking about lately, be sure to look at some of my recent posts!
+  If you have any questions or comments, please do not hesitate to contact me over email. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mayer-ju
-google-scholar: L4_jVMMAAAAJ&hl
+google-scholar: https://scholar.google.co.uk/citations?user=L4_jVMMAAAAJ&hl
 # Build settings
 theme: minima
 plugins:
