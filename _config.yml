@@ -20,14 +20,13 @@
 
 title: Justin Mayer
 email: jmayer@mrl.ucsb.edu
-description: Thanks for stopping by! This site includes a little bit of everyting. If you are interested in what I have worked on in the past,
-check out my publications page. If you want to get a feel for what I'm currently thinking about, check out some of my recent blogs! Hopefully
-you can find something on here useful. If you have any questions or comments, please do not hesitate to reach out to me over email. 
+description: >- # this means to ignore newlines until "baseurl:"
+  Thanks for stopping by! This site includes a little bit of everything.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mayer-ju
-
+google-scholar: L4_jVMMAAAAJ&hl
 # Build settings
 theme: minima
 plugins:
