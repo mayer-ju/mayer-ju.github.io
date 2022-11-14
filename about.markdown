@@ -12,9 +12,7 @@ I am also broadly interested in dynamical systems and their algebraic properties
 <li> <h4> Functional Programming </h4> 
 I have also spent some time learning Haskell and the theorem prover Lean. Functional programming is a rather insightful way to understand the striking similarities between computer science and more formal mathematics. I hope to "formalize" some of the ideas I discuss related to dynamical systems with the help of these tools.  
 </li>
-<p>
-<img src="/assets/images/Jmayer_headshot.jpg" algin ="right" width="250" style - "padding-left:75px;">
-</p>
+![headshot](/assets/images/Jmayer_headshot.jpg)
 <h3>Education</h3>
 <p align="left">
 Graduate Student Researcher, Materials Department, UC Santa Barbara, 2019-Present.
