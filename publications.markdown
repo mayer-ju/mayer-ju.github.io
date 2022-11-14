@@ -4,6 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
+<ol> == $0
+<li value="10">
+::marker
+<font color="2569A1">
+<b>J. A. Mayer</b>
+</font>
+" and R. Seshadri, Electron count dictates phase separation in Heusler alloys, "
+<i>Phys. Rev. Mater.</i>
+</li>
+<br>
+</ol>
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
