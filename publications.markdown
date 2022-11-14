@@ -4,27 +4,26 @@ title: Publications
 permalink: /publications/
 ---
 
-<ol> == $0
+<ol>
 <li value="10">
-::marker
 <font color="2569A1">
 <b>J. A. Mayer</b>
 </font>
-" and R. Seshadri, Electron count dictates phase separation in Heusler alloys, "
+ and R. Seshadri, "Electron count dictates phase separation in Heusler alloys,"
 <i>Phys. Rev. Mater.</i>
+</li>
+<br>
+<li value="9">
+E. E. Levin, D. A. Kitchaev, Y. M. Eggeler,
+<font color="2569A1">
+<b>J. A. Mayer</b>
+</font>
+P. Behera, D. S. Gianola, A. Van der Ven, T.M. Pollock, and R. Seshadri, Influence
+of plastic deformation on the magnetic properties of Heusler MnAu<sub>2</sub>Al,"
+<i>Phys Rev. Mater.</i>
+<b>5</b>
+(2021) 014408. 
 </li>
 <br>
 </ol>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

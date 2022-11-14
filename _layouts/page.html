@@ -1,7 +1,12 @@
 <!--page.html-->
-
----
-layout: default
-
----
-{{content}}
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>{{page.title}}</title>
+	<link rel="styleshett" href="/assets/css/styles.css">
+</head>
+<body>
+	{% include navbar.html %}
+	{{content}}
+</body>
+</html>
