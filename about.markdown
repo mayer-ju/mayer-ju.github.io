@@ -17,4 +17,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-headshot: /assets/images/Jmayer_headshot.jpg
+![jmayer headshot](/assets/images/Jmayer_headshot.jpg)
