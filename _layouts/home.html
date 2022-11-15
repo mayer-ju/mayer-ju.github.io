@@ -1,13 +1,16 @@
 <!--home.html-->
 
----
-Justin Mayer, PhD Candidate, Materials Department, UC Santa Barbara
----
+<head>
+<h4>Justin Mayer, PhD Candidate, Materials Department, UC Santa Barbara</h4>
+<link rel="stylesheet" href="/assets/css/styles.css">
+</head>
 
-<ul>
-	{% for post in site.posts %}
-	<li><a href="{{ post.url | relative_url }}">{{post.title}}</a></li>
-	{% endfor %}
-</ul>
-<h3><a href="/about">About</a></h3>
-<h3><a href="/publications">Publications</a></h3>
+<body>
+	{% include nabvar.html %}
+	<h3> Blog Posts </h3>
+	<ul>	
+		{% for post in site.posts %}
+		<li><a href="{{ post.url | relative_url }}">{{post.title}}</a></li>
+		{% endfor %}
+	</ul>	
+</body>
