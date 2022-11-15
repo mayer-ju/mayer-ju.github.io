@@ -15,7 +15,7 @@ Graduate Student Researcher, Materials Department, UC Santa Barbara, 2019-Presen
 B.S. Chemical Engineering and Physics, Northeastern University, 2014-2018.
 </p>
 <br>
-<h3>Research Interests</h3>
+<h3>Academic Interests</h3>
 <h4> Gradute Research </h4>
 I am a fourth year graduate student advised by Professor Ram Seshadri, Professor Tresa Pollock, and Professor Irene Beyerlein. My graduate research examines the relationships between atomic order, microstructure, and magnetism. Please take a look at my publications if you would like to know more about this work.
 <h4> Abstract Dynamical Systems </h4> 
